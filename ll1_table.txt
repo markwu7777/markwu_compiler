@@ -1,0 +1,20 @@
+·ÇÖÕ½á·û/ÖÕ½á·û	int	float	char	void	if	while	{	}	;	,	(	)	=	||	&&	+	-	*	/	ID	CONST
+P	FD	FD	FD	FD																		
+FD																						
+T																						
+PL																						
+PD																						
+CS																						
+DL																						
+D																						
+SL																						
+S																						
+ES																						
+CS																						
+E																						
+AE																						
+LE																						
+RE																						
+AE																						
+ME																						
+F																						

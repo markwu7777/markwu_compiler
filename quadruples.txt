@@ -1,0 +1,1 @@
+<__main__.Quadruple object at 0x0000023D8C325E20>
